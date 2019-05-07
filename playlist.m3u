@@ -1,5 +1,6 @@
-
 #EXTM3U
-
 #EXTINF:0 group-title="SCHCI",All Cams
 http://192.168.3.9:8080/0.ts
+#EXTM3U
+#EXTINF:0 group-title="SCHCI",m3u8
+http://192.168.3.9:8080/0.m3u8
